@@ -38,9 +38,10 @@
 ## 📁 Folder Structure
 
 ```
+ 
+├── README.md
 ├── controls.py               # Main controller script
 ├── hand_tracking_module.py   # Hand detection class using MediaPipe
-├── README.md
 └── requirements.txt               
 ```
 
