@@ -4,29 +4,29 @@
 
 ---
 
-## 🚀 About the Project
+## About the Project
 
 **Aeromano** is an innovative hand-gesture-based virtual steering controller designed for controlling vehicles in PC games using only hand movements in front of your webcam. Built with OpenCV and MediaPipe, Aeromano translates your gestures into keyboard keystrokes, enabling immersive and contactless gaming experiences.
 
 ---
 
-## 🧠 Features
+## Features
 
-* 🚗 **Steering**: Move your right hand left/right to steer (`A`/`D` keys)
-* 🏎 **Acceleration/Braking**: Raise or lower your left hand to move forward (`W`) or brake/reverse (`S`)
-* 👋 **Two-Hand Recognition**: Requires both hands in the frame to activate controls
-* 🎮 **Game-Compatible**: Works with most PC games that use WASD controls
+*  **Steering**: Move your right hand left/right to steer (`A`/`D` keys)
+*  **Acceleration/Braking**: Raise or lower your left hand to move forward (`W`) or brake/reverse (`S`)
+*  **Two-Hand Recognition**: Requires both hands in the frame to activate controls
+*  **Game-Compatible**: Works with most PC games that use WASD controls
 
 ---
 
-## 📸 Demo
+## Demo
 
 
 [![Watch Demo](https://your-thumbnail-link.com)](https://your-demo-link.com)
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * [Python 3.10+](https://www.python.org/)
 * [OpenCV](https://opencv.org/) – for camera input and visual feedback
@@ -35,7 +35,7 @@
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
  
@@ -47,7 +47,7 @@
 
 ---
 
-## 🧪 Usage
+##  Usage
 
 Run the controller:
 
@@ -59,7 +59,7 @@ python controls.py
 
 ---
 
-## ✅ Requirements
+##  Requirements
 
 * A webcam (built-in or USB)
 * Basic lighting for better hand tracking
@@ -67,7 +67,7 @@ python controls.py
 
 ---
 
-## 📦 Dependencies (in `requirements.txt`)
+##  Dependencies (in `requirements.txt`)
 
 ```
 opencv-python
@@ -77,13 +77,13 @@ pynput
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to fork this repo, open issues, or suggest features. Contributions are always welcome!
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Author**: Shubham Jain
 📧 Email: \[[shubh.j.0705@gmail.com](mailto:shubh.j.0705@gmail.com)]
@@ -91,7 +91,7 @@ Feel free to fork this repo, open issues, or suggest features. Contributions are
 
 ---
 
-## 🏷 Tags
+##  Tags
 
 `gesture-control` `python` `mediapipe` `opencv` `hands-free` `virtual-controller` `aeromano`
 
