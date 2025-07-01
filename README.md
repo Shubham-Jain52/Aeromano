@@ -1,4 +1,4 @@
-# Aeromano
+# Hast Niyantrak
 
 *Air-powered hand gesture steering interface for hands-free gaming control.*
 
@@ -6,7 +6,7 @@
 
 ## About the Project
 
-**Aeromano** is an innovative hand-gesture-based virtual steering controller designed for controlling vehicles in PC games using only hand movements in front of your webcam. Built with OpenCV and MediaPipe, Aeromano translates your gestures into keyboard keystrokes, enabling immersive and contactless gaming experiences.
+**Hast Niyantrak** is an innovative hand-gesture-based virtual steering controller designed for controlling vehicles in PC games using only hand movements in front of your webcam. Built with OpenCV and MediaPipe, Aeromano translates your gestures into keyboard keystrokes, enabling immersive and contactless gaming experiences.
 
 ---
 
